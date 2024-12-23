@@ -39,7 +39,7 @@ For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: AGASH S REF NUMBER: 24900273 DATE 23/112024
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: AGASH S REF NUMBER: 24900273 DATE:23/11/2024
 ;
 */
 ![image](https://github.com/user-attachments/assets/e3073247-5d68-4361-b0c0-50d90bd7de15)
